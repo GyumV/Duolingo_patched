@@ -1,1 +1,1 @@
-# APK_patches
+# Duolingo_patched
